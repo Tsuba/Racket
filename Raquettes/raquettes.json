@@ -3,20 +3,23 @@
         "nom" : "Radical",
         "prix" : 139,
         "marque" : "Head",
-        "image" : ""
+        "image" : "http://img.tenniswarehouse-europe.com/watermark/rs.php?path=HYGRM-1.jpg&nw=150",
+        "description" : "Une des meilleures raquettes qui apporte désormais davantage de sensations de vitesse et un nouveau plan de cordage. La Graphene Radical MP est dotée du plan de cordage dynamique 16x19 de Head, composé de montants plus resserrés dans le cœur de la raquette (pour un meilleur contrôle directionnel), tandis que les bords sont plus ouverts pour atténuer les vibrations et pour limiter la perte de puissance sur les balles frappées hors du centre. Le résultat ? Un tamis qui associe une réponse plus vive et indulgente avec l'exceptionnelle précision qui fait la réputation de la gamme Radical. Depuis la ligne de fond, nos experts ont été impressionnés par le niveau d'effets et de contrôle que cette raquette offre sur leurs swings les plus rapides. Les joueurs agressifs qui aiment attaquer la balle pourront le faire en toute confiance avec cette raquette. Au filet, la Graphene Radical MP se manie très rapidement, ce qui la rend facile à repositionner lors des échanges rapides. Les sensations de vitesse qu'elle procure sont également très utiles sur les retours de service où il a été possible de réaliser des coups très efficaces sous pression. En résumé, c'est une très bonne option pour les joueurs à la recherche de précision et de sensations exceptionnelles ainsi que d'une belle association de puissance et contrôle. Cette raquette offre une grande marge de personnalisation au niveau du poids notamment pour les joueurs qui veulent plus de stabilité."
     },
     {
         "nom" : "Pure Drive",
         "joueur" : "Jo Tsonga",
         "prix" : 99,
         "marque" : "Babolat",
-        "image" : ""
+        "image" : "http://img.tenniswarehouse-europe.com/watermark/rs.php?path=BPPDL-1.jpg&nw=150",
+        "description" : "La Babolat PLAY Pure Drive dispose d'un capteur dans le manche qui enregistre tous les aspects de votre jeu. Vous pouvez ensuite facilement télécharger toutes ces données sur votre smartphone, tablette ou ordinateur où un aperçu de votre jeu vous attend. Il est même possible de comparer vos résultats avec ceux de vos amis ou avec la grande communauté des utilisateurs PLAY. Remarque : Babolat a conçu cette raquette avec les mêmes caractéristiques techniques et l'incroyable jouabilité que la Pure Drive standard. Babolat propose une version améliorée de la PLAY Pure Drive avec un nouveau look et une zone de contact encore plus réactive. Comme sa version précédente, cette Pure Drive offre un niveau de puissance, de précision et de mobilité qui convient à tout type de joueurs, du débutant au joueur pro. Même si elle est impressionnante sur tous les styles de jeu, elle est parfaite pour les joueurs de fond de court agressifs qui aiment dominer l'action avec de la vitesse et des effets. Nouveauté de cette raquette : la technologie FSI qui monte la zone de frappe sur le tamis et resserre les espaces entre les travers du haut pour une zone de contact plus réactive. Sur cette version, les joueurs peuvent enregistrer la puissance de leurs frappes, la localisation des impacts sur le tamis ainsi que beaucoup d'autres détails. Depuis la ligne de fond de court, la Pure Drive offre une association parfaite de puissance contrôlable et de potentiel d'effets. Les sensations de rapidité et la réponse prévisible sur tous les styles de frappe permettent des coups droits puissants et bien placés. Au filet, sa vitesse et sa puissance en font une arme redoutable dans les mains des joueurs de double agressifs. Les joueurs ATP et WTA le savent bien puisque beaucoup ont utilisé la Pure Drive standard. En résumé, avec cette nouvelle version, la Pure Drive reste l'une des raquettes les plus polyvalentes et faciles d'utilisation."
     },
     {
         "nom" : "Wilson X35",
         "joueur" : "Roger Federer",
         "prix" : 168,
         "marque" : "Wilson",
-        "image" : ""
+        "image" : "http://img.tenniswarehouse-europe.com/watermark/rs.php?path=B98GR-1.jpg&nw=150",
+        "description" : "test"
     }
 ]
