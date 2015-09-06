@@ -8,7 +8,7 @@
     <script src="bower_components/angular/angular.min.js"></script>
     <script src="bower_components/jquery/dist/jquery.min.js"></script>
     <script src="script/controller/raquetteController.js"></script>
-    <script src="script/controller/panelController.js"></script>
+    <script src="script/directive/directives.js"></script>
 </head>
 <body ng-app="racketApp">
     <div class="container-fluid">
@@ -18,7 +18,7 @@
                 <div ng-controller="racketController">
                     <div ng-repeat="products in product">
                         <h3>{{ products.nom }} de {{products.marque}}</h3>
-                        <img ng-src="{{products.image}}">
+                        <images-produits></images-produits>
                         <div>{{products.prix | currency}}</div>
                         <section ng-controller="panelController">
                             <ul class="nav nav-pills">

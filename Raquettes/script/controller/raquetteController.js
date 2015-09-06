@@ -20,3 +20,8 @@ angular.module('racketApp', [])
         };
 
     }])
+    .controller('imageController', function($scope){
+        $scope.current = 0;
+
+
+    })
