@@ -1,0 +1,8 @@
+<div ng-controller="imageController">
+    <img ng-src='{{products.image[current]+"150"}}'>
+    <ul class="nav nav-pills">
+        <li ng-repeat="pic in products.image">
+            <img ng-src='{{pic+"45"}}'>
+        </li>
+    </ul>    
+</div>
